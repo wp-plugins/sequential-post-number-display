@@ -13,11 +13,12 @@ Sequential Post Number Display allow you to assign a sequential number(in chrono
 == Description ==
 
 This plugin enables you to assign a sequential number to posts. So if I go to index and have 200 posts published on the total site, with 50 posts per page, I should see a 200, 199, 198…151, Page 2 should show 150, 149…101, Page 3 should show 100,99…51 and so on.
+
 ==Special Features==
                                                                   
 Sequential Post Number Display offers you with a handful of useful features :
 
-1.**Both Short Code and PHP code Option.**
+* Both Short Code and PHP code Option.
 
 ==Installation==
 
@@ -25,19 +26,19 @@ Sequential Post Number Display offers you with a handful of useful features :
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Enjoy Post Number display.
 4. To display the number put any of this code in your template file
-[<?php echo do_shortcode('[sqNumber]');?>]
+`<?php echo do_shortcode('[sqNumber]');?>`
 or
-[<?php echo get_post_meta($post->ID,'incr_number',true); ?>]
+`<?php echo get_post_meta($post->ID,'incr_number',true); ?>`
 5. Alternatvely you may use the shortcode [sqNumber]
 
 ==Frequently Asked Questions==
 
 = Does this plugin work with newest WP version and also older versions? =
-**Yes, this plugin works really fine with WordPress 3.8!
-It is also compatible for older Wordpress versions upto 3.0.1.**
+Yes, this plugin works really fine with WordPress 3.8!
+It is also compatible for older Wordpress versions upto 3.0.1.
 
 = Is the plugin compatible with my theme? =
-**Yes, the plugin is completely compatible with all the Wordpress themes!**
+Yes, the plugin is completely compatible with all the Wordpress themes!
 
 
 ==Screenshots==
@@ -45,17 +46,13 @@ It is also compatible for older Wordpress versions upto 3.0.1.**
 
 ==Changelog==
 
-= 1 =
-*Initial release*
-
+= 0.0.1 =
+* Initial release
 
 ==Upgrade Notice==
 
-=1.0=
-
-Just released into the wild!
-
-
+= 0.0.1 =
+* Just released into the wild!
 
 ==Feedback==
 Please!
