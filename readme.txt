@@ -1,4 +1,4 @@
-=== Sequential Post Number Display ===
+﻿=== Sequential Post Number Display ===
 Contributors: The Grey Parrots
 Donate link: http://thegreyparrots.com/
 Tags: Sequential Post Number, Post Number, Display Post Number
@@ -25,9 +25,9 @@ Sequential Post Number Display offers you with a handful of useful features :
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Enjoy Post Number display.
 4. To display the number put any of this code in your template file
-<?php echo do_shortcode('[sqNumber]');?>
+`<?php echo do_shortcode('[sqNumber]');?>`
 or
-<?php echo get_post_meta($post->ID,'incr_number',true); ?>
+`<?php echo get_post_meta($post->ID,'incr_number',true); ?>`
 5. Alternatvely you may use the shortcode [sqNumber]
 
 ==Frequently Asked Questions==
