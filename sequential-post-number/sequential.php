@@ -10,7 +10,7 @@ License: GPLv2 or later
 */
 /*
 <?php echo do_shortcode('[sqNumber]');?>
-<?php echo get_post_meta($post->ID,'incr_number',true); ?>
+<?php echo get_post_meta(get_the_ID(),'incr_number',true); ?>
 */
 function updatePostNumbers() {
     global $wpdb;
