@@ -1,14 +1,14 @@
 ﻿=== Sequential Post Number Display ===
 Contributors: The Grey Parrots
 Donate link: http://thegreyparrots.com/
-Tags: Sequential Post Number, Post Number, Display Post Number
+Tags: Sequential Post Number, Post Number, Display Post Number, Post sequence
 Requires at least: 3.0.1
-Tested up to: 3.8
+Tested up to: 4.1
 Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Sequential Post Number Display allow you to assign a sequential number(in chronological order) to posts and you can display it with each post.
+Sequential Post Number Display allow you to assign a sequential number(in chronological order) to posts and you can display it with each post. You can configure it for Pages, Categories and Tags
 
 == Description ==
 
