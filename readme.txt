@@ -8,11 +8,12 @@ Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Sequential Post Number Display allow you to assign a sequential number(in chronological order) to posts and you can display it with each post. You can configure it for Pages, Categories and Tags
-
+Sequential Post Number Display allow you to assign a sequential number(in chronological order) to posts and you can display it with each post. 
 == Description ==
 
 This plugin enables you to assign a sequential number to posts. So if I go to index and have 200 posts published on the total site, with 50 posts per page, I should see a 200, 199, 198…151, Page 2 should show 150, 149…101, Page 3 should show 100,99…51 and so on.
+
+You can configure it for Pages, Categories and Tags!!
 
 ==Special Features==
                                                                   
@@ -34,7 +35,7 @@ or
 ==Frequently Asked Questions==
 
 = Does this plugin work with newest WP version and also older versions? =
-Yes, this plugin works really fine with WordPress 3.8!
+Yes, this plugin works really fine with WordPress 4.1!
 It is also compatible for older Wordpress versions upto 3.0.1.
 
 = Is the plugin compatible with my theme? =
@@ -48,11 +49,15 @@ Yes, the plugin is completely compatible with all the Wordpress themes!
 
 = 0.0.1 =
 * Initial release
+= 1.1.0 =
+* Introduced enable * disable options for Pages, Categories and Tags
 
 ==Upgrade Notice==
 
 = 0.0.1 =
 * Just released into the wild!
+= 1.1.0 =
+* Introduced enable * disable options for Pages, Categories and Tags
 
 ==Feedback==
 Please!
